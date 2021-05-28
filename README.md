@@ -14,7 +14,7 @@
 * [Discord.js](https://discord.js.org/#/), [Java Discord API](https://github.com/DV8FromTheWorld/JDA)
 * [XSeries](https://github.com/CryptoMorin/XSeries)
 
-![Gatinho](https://i.pinimg.com/originals/8f/46/c5/8f46c58eb5ef0f59bced2f795d5dfde2.gif)
+![Gatinho](https://github.com/Daniel-code15/Daniel-code15/blob/img/cats.gif?raw=true)
 
 
 ![Status Github](https://github-readme-stats.vercel.app/api?username=daniel-code15&show_icons=true)

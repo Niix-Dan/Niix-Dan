@@ -1,8 +1,8 @@
-###Oii 😎, eu sou o Daniel .
-####Sou um desenvolvedor Sênior, amo novas tecnologias e gatos!
+### Oii 😎, eu sou o Daniel.
+#### Sou um desenvolvedor Sênior, amo novas tecnologias e gatos!
 
 
-#Minhas Skills:
+# Minhas Skills:
 * Java
 * Html e css
 * Javascript (Bruh)
@@ -10,7 +10,7 @@
 * Conhecimento sobre alguns bancos de dados (MongoDB, Firebase e Sql)
 * Eu amo gatinhos =3
 
-#Coisas legais:
+# Coisas legais:
 * [Discord.js](https://discord.js.org/#/), [Java Discord API](https://github.com/DV8FromTheWorld/JDA)
 * [XSeries](https://github.com/CryptoMorin/XSeries)
 

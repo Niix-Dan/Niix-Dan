@@ -1,17 +1,13 @@
 ### Oii 😎, eu sou o Daniel.
-#### Sou um desenvolvedor Sênior, amo novas tecnologias e gatos!
-
+#### Amo novas tecnologias e gatos!
 
 # Minhas Skills:
-* Java
-* Html e css
-* Javascript (Bruh)
-* C++ (Um pouco de C# tmbem)
+* Java, Html, javascript, CSS, C++, C#, Python, Lua
+* MySql, MongoDB, Firebase
 * Conhecimento sobre alguns bancos de dados (MongoDB, Firebase e Sql)
-* Eu amo gatinhos =3
 
 # Coisas legais:
-* [Discord.js](https://discord.js.org/#/), [Java Discord API](https://github.com/DV8FromTheWorld/JDA)
+* [Discord.js](https://discord.js.org/#/), [Java Discord API (JDA)](https://github.com/DV8FromTheWorld/JDA)
 * [XSeries](https://github.com/CryptoMorin/XSeries)
 
 ![Gatinho](https://github.com/Daniel-code15/Daniel-code15/blob/main/cats.gif?raw=true)

@@ -13,4 +13,4 @@
 ![Cat](https://github.com/Niix-Dan/Niix-Dan/blob/main/cats.gif?raw=true)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=niix-dan15&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=niix-dan&show_icons=true)

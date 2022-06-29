@@ -10,7 +10,7 @@
 * [Discord.js](https://discord.js.org/#/), [Java Discord API (JDA)](https://github.com/DV8FromTheWorld/JDA)
 * [XSeries](https://github.com/CryptoMorin/XSeries)
 
-![Cat](https://github.com/Daniel-code15/Daniel-code15/blob/main/cats.gif?raw=true)
+![Cat](https://github.com/Niix-Dan/Niix-Dan/blob/main/cats.gif?raw=true)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-code15&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=niix-dan15&show_icons=true)

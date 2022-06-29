@@ -1,16 +1,16 @@
-### Oii 😎, eu sou o Daniel.
-#### Amo novas tecnologias e gatos!
+### Hello 😎, I am Niix.
+#### I love new tecnologies and cats!
 
-# Minhas Skills:
+# My Skills:
 * Java, Html, javascript, CSS, C++, C#, Python, Lua
 * MySql, MongoDB, Firebase
-* Conhecimento sobre alguns bancos de dados (MongoDB, Firebase e Sql)
+* I know how to use some databases (MongoDB, Firebase and Sql)
 
-# Coisas legais:
+# Cool things:
 * [Discord.js](https://discord.js.org/#/), [Java Discord API (JDA)](https://github.com/DV8FromTheWorld/JDA)
 * [XSeries](https://github.com/CryptoMorin/XSeries)
 
-![Gatinho](https://github.com/Daniel-code15/Daniel-code15/blob/main/cats.gif?raw=true)
+![Cat](https://github.com/Daniel-code15/Daniel-code15/blob/main/cats.gif?raw=true)
 
 
-![Status Github](https://github-readme-stats.vercel.app/api?username=daniel-code15&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=daniel-code15&show_icons=true)

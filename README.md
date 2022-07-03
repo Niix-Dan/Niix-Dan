@@ -8,7 +8,7 @@
 
 # Cool things:
 * [Discord.js](https://discord.js.org/#/), [Java Discord API (JDA)](https://github.com/DV8FromTheWorld/JDA)
-* [XSeries](https://github.com/CryptoMorin/XSeries)
+* [XSeries](https://github.com/CryptoMorin/XSeries), [WdMath](https://github.com/Niix-Dan/WdMath)
 
 ![Cat](https://github.com/Niix-Dan/Niix-Dan/blob/main/cats.gif?raw=true)
 

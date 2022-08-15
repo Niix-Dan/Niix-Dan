@@ -2,7 +2,7 @@
 #### I love new tecnologies and cats!
 
 # My Skills:
-* Java, Html, javascript, CSS, C++, C#, Python, Lua
+* Java, Html, javascript, CSS, C++, C#, Python
 * MySql, MongoDB, Firebase
 * I know how to use some databases (MongoDB, Firebase and Sql)
 

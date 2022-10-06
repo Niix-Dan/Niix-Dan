@@ -1,4 +1,4 @@
-### Hello 😎, I am Niix.
+### Hello 😎, My name is Niix.
 #### I love new tecnologies and cats!
 
 # My Skills:

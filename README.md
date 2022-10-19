@@ -4,7 +4,6 @@
 # My Skills:
 * Java, Html, javascript, CSS, C++, C#, Python
 * MySql, MongoDB, Firebase
-* I know how to use some databases (MongoDB, Firebase and Sql)
 
 # Cool things:
 * [Discord.js](https://discord.js.org/#/), [Java Discord API (JDA)](https://github.com/DV8FromTheWorld/JDA)

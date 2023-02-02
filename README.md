@@ -1,6 +1,6 @@
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=Niix-Dan&color=green)
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Niix-Dan&color=green" />
 </p>
 
 <p align="center">

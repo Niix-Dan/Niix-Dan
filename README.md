@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  <img alt="Discord" src="https://discord.c99.nl/widget/theme-4/421479730475433984.png" />
-</p>
-
-<p align="center">
-  <b>Backend Developer from Brazil</b>
+  <b>Fullstack Developer from Brazil</b>
 </p>
 
 <p align="center">

@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Fullstack Developer from Brazil</b>
+  <b>Fullstack Developer</b>
 </p>
 <p align="center">
   <b>Cool Stuffs:</b>

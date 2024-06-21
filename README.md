@@ -2,10 +2,6 @@
 <p align="center">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Niix-Dan&color=green" />
 </p>
-
-<p align="center">
-  <b>Fullstack Developer</b>
-</p>
 <p align="center">
   <b>Cool Stuffs:</b>
 </p>

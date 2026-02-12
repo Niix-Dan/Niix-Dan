@@ -1,18 +1,17 @@
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Niix-Dan;Backend+Developer;Java;JS+%7C+TS" alt="Typing SVG" />
 
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=Niix-Dan&color=green" />
-</p>
-<p align="center">
-  <b>Cool Stuffs:</b>
-</p>
-
-<p align="center">
-  <a href="https://discord.js.org/#/"><img src="https://img.shields.io/badge/Discord.js-FF0000?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://github.com/DV8FromTheWorld/JDA"><img src="https://img.shields.io/badge/JDA-FF0000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/CryptoMorin/XSeries"><img src="https://img.shields.io/badge/XSeries-6db05f?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://github.com/Niix-Dan/WdMath"><img src="https://img.shields.io/badge/WdMath-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Niix-Dan&show_icons=true&theme=transparent&hide_title=true&count_private=true" />
-</p>
 
-<!--![Cat](https://github.com/Niix-Dan/Niix-Dan/blob/main/cats.gif?raw=true)-->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,git,docker,kubernetes,nodejs,ts,mysql&theme=dark" />
+  </a>
+
+  <br><br>
+
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Niix-Dan&theme=radical" />
+  </div>
+
+</div>
